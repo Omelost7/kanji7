@@ -1,0 +1,1082 @@
+[
+  {
+    "character": "大",
+    "level": 1,
+    "meaning": "big",
+    "alternativeMeanings": [
+      "large",
+      "great"
+    ],
+    "pinyin": "dà",
+    "alternativePinyin": [],
+    "components": [
+      "one",
+      "person"
+    ],
+    "meaningMnemonic": "A person (人) who has grown one (一) extra line right across their outstretched arms. Nobody gets bigger than that.",
+    "readingMnemonic": "Something that big makes you throw your arms open and go 'ta-DAH' — dà, falling hard in fourth tone."
+  },
+  {
+    "character": "小",
+    "level": 1,
+    "meaning": "small",
+    "alternativeMeanings": [
+      "little",
+      "tiny"
+    ],
+    "pinyin": "xiǎo",
+    "alternativePinyin": [],
+    "components": [
+      "rod",
+      "eight"
+    ],
+    "meaningMnemonic": "One thin rod (丨) with eight (八) split off either side — shavings, and nothing is smaller than a shaving.",
+    "readingMnemonic": "Small things only get a whispered 'shyow' (xiǎo), third tone dipping down to nothing."
+  },
+  {
+    "character": "中",
+    "level": 1,
+    "meaning": "middle",
+    "alternativeMeanings": [
+      "centre",
+      "center",
+      "China"
+    ],
+    "pinyin": "zhōng",
+    "alternativePinyin": [],
+    "components": [
+      "mouth",
+      "rod"
+    ],
+    "meaningMnemonic": "A rod (丨) skewered straight through a mouth (口), dead centre. It also names the Middle Kingdom.",
+    "readingMnemonic": "The rod goes 'JONG' (zhōng) as it hits the middle of the target, flat first tone."
+  },
+  {
+    "character": "上",
+    "level": 1,
+    "meaning": "up",
+    "alternativeMeanings": [
+      "above",
+      "on top",
+      "previous"
+    ],
+    "pinyin": "shàng",
+    "alternativePinyin": [
+      "shang"
+    ],
+    "components": [
+      "rod",
+      "one"
+    ],
+    "meaningMnemonic": "A rod (丨) standing on the line (一) with a mark growing above it. Everything about this character points up.",
+    "readingMnemonic": "Look up too fast and you 'shong' (shàng) your head on the shelf."
+  },
+  {
+    "character": "下",
+    "level": 1,
+    "meaning": "down",
+    "alternativeMeanings": [
+      "below",
+      "under",
+      "next"
+    ],
+    "pinyin": "xià",
+    "alternativePinyin": [],
+    "components": [
+      "one",
+      "rod",
+      "dot"
+    ],
+    "meaningMnemonic": "Everything hangs below the line (一): the rod (丨) drops and a dot (丶) falls off the end of it.",
+    "readingMnemonic": "Down the slide you go with a 'shyah!' (xià)."
+  },
+  {
+    "character": "不",
+    "level": 1,
+    "meaning": "not",
+    "alternativeMeanings": [
+      "no",
+      "negative"
+    ],
+    "pinyin": "bù",
+    "alternativePinyin": [
+      "bú"
+    ],
+    "components": [
+      "one",
+      "slash",
+      "rod",
+      "dot"
+    ],
+    "meaningMnemonic": "A line (一) with a slash, a rod and a dot scribbled underneath: the sky with the answer crossed out.",
+    "readingMnemonic": "'Boo!' (bù) is what the crowd shouts when the answer is no. Before a fourth tone it lifts to bú."
+  },
+  {
+    "character": "好",
+    "level": 1,
+    "meaning": "good",
+    "alternativeMeanings": [
+      "well",
+      "fine",
+      "nice"
+    ],
+    "pinyin": "hǎo",
+    "alternativePinyin": [],
+    "components": [
+      "woman",
+      "child"
+    ],
+    "meaningMnemonic": "A woman (女) with her child (子) beside her. In this writing system that picture simply means good.",
+    "readingMnemonic": "You look at them and ask 'how good is that?' — hǎo, third tone."
+  },
+  {
+    "character": "明",
+    "level": 1,
+    "meaning": "bright",
+    "alternativeMeanings": [
+      "clear",
+      "light"
+    ],
+    "pinyin": "míng",
+    "alternativePinyin": [],
+    "components": [
+      "sun",
+      "moon"
+    ],
+    "meaningMnemonic": "The sun (日) and the moon (月) in the sky at once. Twice the light: bright, and by extension clear.",
+    "readingMnemonic": "A Ming (míng) vase is glazed so well it shines in both lights."
+  },
+  {
+    "character": "早",
+    "level": 1,
+    "meaning": "early",
+    "alternativeMeanings": [
+      "morning"
+    ],
+    "pinyin": "zǎo",
+    "alternativePinyin": [],
+    "components": [
+      "sun",
+      "ten"
+    ],
+    "meaningMnemonic": "The sun (日) already ten (十) fingers above the horizon, and you are up to see it. Early.",
+    "readingMnemonic": "You greet the sunrise with a sleepy 'zow' (zǎo)."
+  },
+  {
+    "character": "白",
+    "level": 1,
+    "meaning": "white",
+    "alternativeMeanings": [
+      "blank",
+      "plain"
+    ],
+    "pinyin": "bái",
+    "alternativePinyin": [],
+    "components": [
+      "slash",
+      "sun"
+    ],
+    "meaningMnemonic": "One slash (丿) of light coming off the sun (日) — the colour it bleaches everything into.",
+    "readingMnemonic": "Wave 'bye' (bái): you have gone white as a sheet."
+  },
+  {
+    "character": "天",
+    "level": 1,
+    "meaning": "sky",
+    "alternativeMeanings": [
+      "day",
+      "heaven"
+    ],
+    "pinyin": "tiān",
+    "alternativePinyin": [],
+    "components": [
+      "one",
+      "big"
+    ],
+    "meaningMnemonic": "One (一) line drawn above even the biggest (大) person there is. Whatever is up there is the sky, and one turn of it is a day.",
+    "readingMnemonic": "The 'tea-ANN' (tiān) party is held up in the clouds, flat first tone."
+  },
+  {
+    "character": "太",
+    "level": 1,
+    "meaning": "too",
+    "alternativeMeanings": [
+      "too much",
+      "extremely",
+      "very"
+    ],
+    "pinyin": "tài",
+    "alternativePinyin": [],
+    "components": [
+      "big",
+      "dot"
+    ],
+    "meaningMnemonic": "Big (大) with one extra drop (丶) spilled on it. Big plus a bit more is too much.",
+    "readingMnemonic": "Your 'tie' (tài) is knotted too tight to breathe."
+  },
+  {
+    "character": "你",
+    "level": 2,
+    "meaning": "you",
+    "alternativeMeanings": [
+      "thou"
+    ],
+    "pinyin": "nǐ",
+    "alternativePinyin": [],
+    "components": [
+      "person",
+      "ribbon"
+    ],
+    "meaningMnemonic": "A person (亻) wearing a ribbon (尔) with their name on it: the one I am pointing at.",
+    "readingMnemonic": "I point at the ribbon and tap your 'knee' (nǐ)."
+  },
+  {
+    "character": "他",
+    "level": 2,
+    "meaning": "he",
+    "alternativeMeanings": [
+      "him",
+      "other"
+    ],
+    "pinyin": "tā",
+    "alternativePinyin": [],
+    "components": [
+      "person",
+      "also"
+    ],
+    "meaningMnemonic": "A person (亻), and also (也) a person — just not the one in front of you. He, over there.",
+    "readingMnemonic": "He is so far off you only manage a flat 'tah' (tā)."
+  },
+  {
+    "character": "她",
+    "level": 2,
+    "meaning": "she",
+    "alternativeMeanings": [
+      "her"
+    ],
+    "pinyin": "tā",
+    "alternativePinyin": [],
+    "components": [
+      "woman",
+      "also"
+    ],
+    "meaningMnemonic": "A woman (女), and also (也) not the one you are speaking to. She.",
+    "readingMnemonic": "Exactly the same 'tah' (tā) as 他. Spoken Mandarin cannot tell them apart; only the page can."
+  },
+  {
+    "character": "们",
+    "level": 2,
+    "meaning": "plural marker",
+    "alternativeMeanings": [
+      "-s",
+      "plural"
+    ],
+    "pinyin": "men",
+    "alternativePinyin": [],
+    "components": [
+      "person",
+      "door"
+    ],
+    "meaningMnemonic": "A crowd of people (亻) pouring through one door (门). Add it to a person word and you get more of them.",
+    "readingMnemonic": "A doorway full of 'men' (men) — unstressed, no tone at all."
+  },
+  {
+    "character": "什",
+    "level": 2,
+    "meaning": "what",
+    "alternativeMeanings": [
+      "ten",
+      "assorted"
+    ],
+    "pinyin": "shén",
+    "alternativePinyin": [],
+    "components": [
+      "person",
+      "ten"
+    ],
+    "meaningMnemonic": "A person (亻) holding up ten (十) fingers and asking which one you meant.",
+    "readingMnemonic": "'Shen?' (shén) is the noise you make when you did not catch a word, rising in second tone."
+  },
+  {
+    "character": "么",
+    "level": 2,
+    "meaning": "suffix",
+    "alternativeMeanings": [
+      "question suffix",
+      "interrogative suffix"
+    ],
+    "pinyin": "me",
+    "alternativePinyin": [],
+    "components": [
+      "slash",
+      "cocoon"
+    ],
+    "meaningMnemonic": "A slash (丿) over a cocoon (厶): a scrap of a character that only ever hangs off the end of a question word.",
+    "readingMnemonic": "Barely pronounced at all: a swallowed 'muh' (me)."
+  },
+  {
+    "character": "问",
+    "level": 2,
+    "meaning": "to ask",
+    "alternativeMeanings": [
+      "ask",
+      "question",
+      "inquire"
+    ],
+    "pinyin": "wèn",
+    "alternativePinyin": [],
+    "components": [
+      "door",
+      "mouth"
+    ],
+    "meaningMnemonic": "A mouth (口) in the doorway (门), leaning in with a question.",
+    "readingMnemonic": "'When?' (wèn) is the first thing you ask through a door."
+  },
+  {
+    "character": "间",
+    "level": 2,
+    "meaning": "between",
+    "alternativeMeanings": [
+      "room",
+      "gap",
+      "interval"
+    ],
+    "pinyin": "jiān",
+    "alternativePinyin": [],
+    "components": [
+      "door",
+      "sun"
+    ],
+    "meaningMnemonic": "Sunlight (日) coming through the crack in the door (门): the gap between two things, and the room that gap opens into.",
+    "readingMnemonic": "The gap is so narrow that only a 'jyen' (jiān) of light gets through."
+  },
+  {
+    "character": "妈",
+    "level": 2,
+    "meaning": "mother",
+    "alternativeMeanings": [
+      "mom",
+      "mum",
+      "mama"
+    ],
+    "pinyin": "mā",
+    "alternativePinyin": [],
+    "components": [
+      "woman",
+      "horse"
+    ],
+    "meaningMnemonic": "The woman (女) who works like a horse (马) for you.",
+    "readingMnemonic": "The horse says 'maaa' (mā) and so does the baby — flat, held first tone."
+  },
+  {
+    "character": "吗",
+    "level": 2,
+    "meaning": "question particle",
+    "alternativeMeanings": [
+      "question marker",
+      "interrogative particle"
+    ],
+    "pinyin": "ma",
+    "alternativePinyin": [],
+    "components": [
+      "mouth",
+      "horse"
+    ],
+    "meaningMnemonic": "A mouth (口) and a horse (马). Tack it onto the end of a sentence and the whole thing becomes a question.",
+    "readingMnemonic": "The same horse noise as 妈, but flat and unstressed: 'ma'."
+  },
+  {
+    "character": "字",
+    "level": 2,
+    "meaning": "character",
+    "alternativeMeanings": [
+      "written character",
+      "word"
+    ],
+    "pinyin": "zì",
+    "alternativePinyin": [],
+    "components": [
+      "roof",
+      "child"
+    ],
+    "meaningMnemonic": "A child (子) kept under a roof (宀) until it has learned to write. What it learns is characters.",
+    "readingMnemonic": "Each one is a 'dz' (zì) of ink pressed hard onto the page, fourth tone."
+  },
+  {
+    "character": "出",
+    "level": 2,
+    "meaning": "to go out",
+    "alternativeMeanings": [
+      "go out",
+      "exit",
+      "come out"
+    ],
+    "pinyin": "chū",
+    "alternativePinyin": [],
+    "components": [
+      "mountain",
+      "mountain"
+    ],
+    "meaningMnemonic": "One mountain (山) climbing out on top of another. To get anywhere you have to go out over both.",
+    "readingMnemonic": "The train goes 'choo!' (chū) as it pulls out of the station."
+  },
+  {
+    "character": "看",
+    "level": 3,
+    "meaning": "to look",
+    "alternativeMeanings": [
+      "look",
+      "see",
+      "watch",
+      "read"
+    ],
+    "pinyin": "kàn",
+    "alternativePinyin": [],
+    "components": [
+      "hand",
+      "eye"
+    ],
+    "meaningMnemonic": "A hand (手) held flat above the eye (目), shading it so you can look into the distance.",
+    "readingMnemonic": "Genghis 'Khan' (kàn) is looking out over everything he owns."
+  },
+  {
+    "character": "想",
+    "level": 3,
+    "meaning": "to think",
+    "alternativeMeanings": [
+      "think",
+      "want",
+      "miss"
+    ],
+    "pinyin": "xiǎng",
+    "alternativePinyin": [],
+    "components": [
+      "tree",
+      "eye",
+      "heart"
+    ],
+    "meaningMnemonic": "An eye (目) up a tree (木) with a heart (心) underneath: you look at a thing, then you feel about it. That is thinking — and wanting.",
+    "readingMnemonic": "Thinking hard, you draw out a 'shyang' (xiǎng), third tone dipping while you consider."
+  },
+  {
+    "character": "名",
+    "level": 3,
+    "meaning": "name",
+    "alternativeMeanings": [
+      "given name",
+      "fame"
+    ],
+    "pinyin": "míng",
+    "alternativePinyin": [],
+    "components": [
+      "evening",
+      "mouth"
+    ],
+    "meaningMnemonic": "In the evening (夕) it is too dark to see, so a mouth (口) has to say who is coming. That is what a name is for.",
+    "readingMnemonic": "Same 'míng' as 明 bright: your name is the part of you that shines."
+  },
+  {
+    "character": "多",
+    "level": 3,
+    "meaning": "many",
+    "alternativeMeanings": [
+      "much",
+      "a lot",
+      "more"
+    ],
+    "pinyin": "duō",
+    "alternativePinyin": [],
+    "components": [
+      "evening",
+      "evening"
+    ],
+    "meaningMnemonic": "One evening (夕) stacked on another, and another. However many you count, there are more.",
+    "readingMnemonic": "How many? 'Dwor' (duō) more than you expected."
+  },
+  {
+    "character": "去",
+    "level": 3,
+    "meaning": "to go",
+    "alternativeMeanings": [
+      "go",
+      "leave",
+      "go to"
+    ],
+    "pinyin": "qù",
+    "alternativePinyin": [],
+    "components": [
+      "earth",
+      "cocoon"
+    ],
+    "meaningMnemonic": "Break out of the cocoon (厶) and set off across the earth (土). You are going.",
+    "readingMnemonic": "You leave with a short dry 'chü' (qù), lips pursed for the ü."
+  },
+  {
+    "character": "时",
+    "level": 3,
+    "meaning": "time",
+    "alternativeMeanings": [
+      "hour",
+      "when",
+      "o'clock"
+    ],
+    "pinyin": "shí",
+    "alternativePinyin": [],
+    "components": [
+      "sun",
+      "inch"
+    ],
+    "meaningMnemonic": "The sun (日) has moved one inch (寸) across the sky. That is how time used to be measured.",
+    "readingMnemonic": "Time takes 'sure' (shí) long enough — second tone rising as the sun climbs."
+  },
+  {
+    "character": "对",
+    "level": 3,
+    "meaning": "correct",
+    "alternativeMeanings": [
+      "right",
+      "toward",
+      "pair"
+    ],
+    "pinyin": "duì",
+    "alternativePinyin": [],
+    "components": [
+      "again",
+      "inch"
+    ],
+    "meaningMnemonic": "A hand (又) measured against the inch (寸) mark once again, and this time it lines up exactly.",
+    "readingMnemonic": "'Dway' (duì) — the answer lands like a stamp, fourth tone."
+  },
+  {
+    "character": "友",
+    "level": 3,
+    "meaning": "friend",
+    "alternativeMeanings": [
+      "friendly",
+      "companion"
+    ],
+    "pinyin": "yǒu",
+    "alternativePinyin": [],
+    "components": [
+      "slash",
+      "again"
+    ],
+    "meaningMnemonic": "A hand (又) with a slash (丿) reaching across for another hand. A friend is the hand you take.",
+    "readingMnemonic": "'Yo!' (yǒu) is how you greet one, third tone."
+  },
+  {
+    "character": "朋",
+    "level": 3,
+    "meaning": "friend",
+    "alternativeMeanings": [
+      "companion",
+      "pal"
+    ],
+    "pinyin": "péng",
+    "alternativePinyin": [],
+    "components": [
+      "moon",
+      "moon"
+    ],
+    "meaningMnemonic": "Two moons (月) side by side, out in the sky together every night. Friends.",
+    "readingMnemonic": "They bump shoulders with a 'pung' (péng), rising second tone."
+  },
+  {
+    "character": "家",
+    "level": 3,
+    "meaning": "home",
+    "alternativeMeanings": [
+      "family",
+      "house"
+    ],
+    "pinyin": "jiā",
+    "alternativePinyin": [],
+    "components": [
+      "roof",
+      "pig"
+    ],
+    "meaningMnemonic": "A pig (豕) under the roof (宀). Once the animals are inside with you, that is a home.",
+    "readingMnemonic": "'Jya' (jiā) is the sigh you let out when you finally get there."
+  },
+  {
+    "character": "果",
+    "level": 3,
+    "meaning": "fruit",
+    "alternativeMeanings": [
+      "result",
+      "outcome"
+    ],
+    "pinyin": "guǒ",
+    "alternativePinyin": [],
+    "components": [
+      "field",
+      "tree"
+    ],
+    "meaningMnemonic": "A tree (木) carrying a whole field's (田) worth of produce: fruit, and the result of everything you planted.",
+    "readingMnemonic": "The fruit lands with a soft 'gwor' (guǒ)."
+  },
+  {
+    "character": "在",
+    "level": 3,
+    "meaning": "to be at",
+    "alternativeMeanings": [
+      "at",
+      "in",
+      "located at",
+      "exist"
+    ],
+    "pinyin": "zài",
+    "alternativePinyin": [],
+    "components": [
+      "one",
+      "slash",
+      "rod",
+      "earth"
+    ],
+    "meaningMnemonic": "Strokes driven into the earth (土) like a marker post: this thing is right here.",
+    "readingMnemonic": "'Dzai' (zài) — you are at the spot, fourth tone, no argument."
+  },
+  {
+    "character": "汉",
+    "level": 4,
+    "meaning": "Chinese",
+    "alternativeMeanings": [
+      "Han",
+      "Han Chinese"
+    ],
+    "pinyin": "hàn",
+    "alternativePinyin": [],
+    "components": [
+      "water",
+      "again"
+    ],
+    "meaningMnemonic": "Water (氵) and a hand (又): the river people. The Han were named after a river, and their writing still carries the name.",
+    "readingMnemonic": "The 'Han' (hàn) dynasty, spelled very nearly the way it sounds."
+  },
+  {
+    "character": "语",
+    "level": 4,
+    "meaning": "language",
+    "alternativeMeanings": [
+      "speech",
+      "tongue"
+    ],
+    "pinyin": "yǔ",
+    "alternativePinyin": [],
+    "components": [
+      "speech",
+      "five",
+      "mouth"
+    ],
+    "meaningMnemonic": "Speech (讠) plus five (五) mouths (口): once five people agree on the same sounds, you have a language.",
+    "readingMnemonic": "'Yü' (yǔ) — round your lips for the ü and dip through the third tone."
+  },
+  {
+    "character": "说",
+    "level": 4,
+    "meaning": "to speak",
+    "alternativeMeanings": [
+      "speak",
+      "say",
+      "talk"
+    ],
+    "pinyin": "shuō",
+    "alternativePinyin": [],
+    "components": [
+      "speech",
+      "eight",
+      "mouth",
+      "legs"
+    ],
+    "meaningMnemonic": "Speech (讠) splitting (八) out of a mouth (口) on legs (儿): words that walk right out of you.",
+    "readingMnemonic": "'Shwor' (shuō) — the sound of someone talking and not stopping."
+  },
+  {
+    "character": "话",
+    "level": 4,
+    "meaning": "speech",
+    "alternativeMeanings": [
+      "words",
+      "talk",
+      "spoken language"
+    ],
+    "pinyin": "huà",
+    "alternativePinyin": [],
+    "components": [
+      "speech",
+      "tongue"
+    ],
+    "meaningMnemonic": "Speech (讠) with a tongue (舌) attached: words that have actually been said out loud.",
+    "readingMnemonic": "'Hwa!' (huà) — a burst of talk, fourth tone."
+  },
+  {
+    "character": "电",
+    "level": 4,
+    "meaning": "electricity",
+    "alternativeMeanings": [
+      "electric",
+      "lightning"
+    ],
+    "pinyin": "diàn",
+    "alternativePinyin": [],
+    "components": [
+      "field",
+      "hook"
+    ],
+    "meaningMnemonic": "Lightning hooking (乚) down into a field (田). Caught in a wire, that is electricity.",
+    "readingMnemonic": "'Dyen' (diàn) — the zap, sharp and fourth tone."
+  },
+  {
+    "character": "回",
+    "level": 4,
+    "meaning": "to return",
+    "alternativeMeanings": [
+      "return",
+      "go back",
+      "come back"
+    ],
+    "pinyin": "huí",
+    "alternativePinyin": [],
+    "components": [
+      "enclosure",
+      "mouth"
+    ],
+    "meaningMnemonic": "A box (囗) inside a box (口): you travel all the way round and end up back where you started.",
+    "readingMnemonic": "'Hway' (huí) — coming back the way you came, second tone rising."
+  },
+  {
+    "character": "来",
+    "level": 4,
+    "meaning": "to come",
+    "alternativeMeanings": [
+      "come",
+      "arrive",
+      "next"
+    ],
+    "pinyin": "lái",
+    "alternativePinyin": [],
+    "components": [
+      "one",
+      "eight",
+      "tree"
+    ],
+    "meaningMnemonic": "A tree (木) with a line (一) and eight (八) more branches spreading toward you as it comes.",
+    "readingMnemonic": "'Lie' (lái) — as in 'lie down, I am coming', second tone."
+  },
+  {
+    "character": "见",
+    "level": 4,
+    "meaning": "to see",
+    "alternativeMeanings": [
+      "see",
+      "meet",
+      "perceive"
+    ],
+    "pinyin": "jiàn",
+    "alternativePinyin": [],
+    "components": [
+      "eye",
+      "legs"
+    ],
+    "meaningMnemonic": "An eye (目) on legs (儿): sight that walks up to a thing. To see, and so to meet.",
+    "readingMnemonic": "'Jyen' (jiàn) — the same syllable as 间, but this one lands hard in fourth tone."
+  },
+  {
+    "character": "水",
+    "level": 4,
+    "meaning": "water",
+    "alternativeMeanings": [
+      "liquid"
+    ],
+    "pinyin": "shuǐ",
+    "alternativePinyin": [],
+    "components": [
+      "rod",
+      "eight",
+      "slash"
+    ],
+    "meaningMnemonic": "A rod (丨) of a stream with eight (八) splashes and a slash breaking off it. Water in full flow.",
+    "readingMnemonic": "'Shway' (shuǐ) — water sloshing, third tone dipping down."
+  },
+  {
+    "character": "谢",
+    "level": 4,
+    "meaning": "to thank",
+    "alternativeMeanings": [
+      "thank",
+      "thanks",
+      "gratitude"
+    ],
+    "pinyin": "xiè",
+    "alternativePinyin": [],
+    "components": [
+      "speech",
+      "body",
+      "inch"
+    ],
+    "meaningMnemonic": "Speech (讠) from the whole body (身), bowed an inch (寸). That is real thanks.",
+    "readingMnemonic": "'Shieh' (xiè) — the sound of the bow, and you say it twice."
+  },
+  {
+    "character": "吃",
+    "level": 4,
+    "meaning": "to eat",
+    "alternativeMeanings": [
+      "eat"
+    ],
+    "pinyin": "chī",
+    "alternativePinyin": [],
+    "components": [
+      "mouth",
+      "slash",
+      "hook"
+    ],
+    "meaningMnemonic": "A mouth (口) with a slash and a hook (乚) dragging food in.",
+    "readingMnemonic": "'Chir' (chī) — flat first tone, said with your mouth full."
+  },
+  {
+    "character": "学",
+    "level": 4,
+    "meaning": "to study",
+    "alternativeMeanings": [
+      "study",
+      "learn",
+      "school",
+      "learning"
+    ],
+    "pinyin": "xué",
+    "alternativePinyin": [],
+    "components": [
+      "eight",
+      "dot",
+      "cover",
+      "child"
+    ],
+    "meaningMnemonic": "Sparks of learning (八 and 丶) landing on the cover (冖) over a child (子). Whatever happens under that roof is study.",
+    "readingMnemonic": "'Shweh' (xué) — the second tone rises like a hand going up in class."
+  },
+  {
+    "character": "我",
+    "level": 5,
+    "meaning": "I",
+    "alternativeMeanings": [
+      "me",
+      "myself"
+    ],
+    "pinyin": "wǒ",
+    "alternativePinyin": [],
+    "components": [
+      "hand",
+      "spear"
+    ],
+    "meaningMnemonic": "A hand (手) holding a spear (戈). Whoever is holding the weapon gets to say 'me'.",
+    "readingMnemonic": "'Wor' (wǒ) — third tone dipping, like pointing down at your own chest."
+  },
+  {
+    "character": "是",
+    "level": 5,
+    "meaning": "to be",
+    "alternativeMeanings": [
+      "is",
+      "am",
+      "are",
+      "yes",
+      "correct"
+    ],
+    "pinyin": "shì",
+    "alternativePinyin": [],
+    "components": [
+      "sun",
+      "upright"
+    ],
+    "meaningMnemonic": "The sun (日) standing upright (正): the one fact nobody argues with. That is how it is.",
+    "readingMnemonic": "'Shir' (shì) — flat, final, fourth tone."
+  },
+  {
+    "character": "国",
+    "level": 5,
+    "meaning": "country",
+    "alternativeMeanings": [
+      "nation",
+      "state"
+    ],
+    "pinyin": "guó",
+    "alternativePinyin": [],
+    "components": [
+      "enclosure",
+      "jade"
+    ],
+    "meaningMnemonic": "Jade (玉) locked inside four walls (囗). Treasure with a border drawn round it is a country.",
+    "readingMnemonic": "'Gwor' (guó) — second tone rising, like a flag going up the pole."
+  },
+  {
+    "character": "老",
+    "level": 5,
+    "meaning": "old",
+    "alternativeMeanings": [
+      "elderly",
+      "aged",
+      "venerable"
+    ],
+    "pinyin": "lǎo",
+    "alternativePinyin": [],
+    "components": [
+      "earth",
+      "slash",
+      "dagger"
+    ],
+    "meaningMnemonic": "Someone bent over the earth (土), a slash for the stooped back and a dagger (匕) for the walking stick.",
+    "readingMnemonic": "'Louw' (lǎo) — a low third-tone groan as they sit down."
+  },
+  {
+    "character": "师",
+    "level": 5,
+    "meaning": "teacher",
+    "alternativeMeanings": [
+      "master",
+      "expert"
+    ],
+    "pinyin": "shī",
+    "alternativePinyin": [],
+    "components": [
+      "slash",
+      "one",
+      "cloth"
+    ],
+    "meaningMnemonic": "Strokes beside a cloth (巾) banner: the one who stands at the front holding the standard.",
+    "readingMnemonic": "'Shir' (shī) — flat first tone, said with respect."
+  },
+  {
+    "character": "生",
+    "level": 5,
+    "meaning": "to be born",
+    "alternativeMeanings": [
+      "born",
+      "life",
+      "raw",
+      "student",
+      "grow"
+    ],
+    "pinyin": "shēng",
+    "alternativePinyin": [],
+    "components": [
+      "slash",
+      "one",
+      "earth"
+    ],
+    "meaningMnemonic": "A shoot with a slash (丿) and a line (一) pushing its way up out of the earth (土): born, alive, growing.",
+    "readingMnemonic": "'Shung' (shēng) — first tone, level as a new sprout."
+  },
+  {
+    "character": "文",
+    "level": 5,
+    "meaning": "writing",
+    "alternativeMeanings": [
+      "script",
+      "language",
+      "culture"
+    ],
+    "pinyin": "wén",
+    "alternativePinyin": [],
+    "components": [
+      "lid",
+      "cross"
+    ],
+    "meaningMnemonic": "A lid (亠) over crossed strokes (乂): marks made on purpose. Writing, and all the culture that comes with it.",
+    "readingMnemonic": "'When' (wén) — second tone, and almost exactly the English word."
+  },
+  {
+    "character": "车",
+    "level": 5,
+    "meaning": "vehicle",
+    "alternativeMeanings": [
+      "car",
+      "cart"
+    ],
+    "pinyin": "chē",
+    "alternativePinyin": [],
+    "components": [
+      "ten",
+      "one",
+      "hook"
+    ],
+    "meaningMnemonic": "An axle (十) through a line (一) inside a hooked (乚) frame. Seen from above, a cart.",
+    "readingMnemonic": "'Chuh' (chē) — the chug of an engine, flat first tone."
+  },
+  {
+    "character": "火",
+    "level": 5,
+    "meaning": "fire",
+    "alternativeMeanings": [
+      "flame",
+      "burn"
+    ],
+    "pinyin": "huǒ",
+    "alternativePinyin": [],
+    "components": [
+      "dot",
+      "slash",
+      "person"
+    ],
+    "meaningMnemonic": "A person (人) with sparks (丶 and 丿) flying off both shoulders. Fire.",
+    "readingMnemonic": "'Hwor' (huǒ) — the whoosh of a flame, dipping third tone."
+  },
+  {
+    "character": "地",
+    "level": 5,
+    "meaning": "ground",
+    "alternativeMeanings": [
+      "earth",
+      "land",
+      "floor"
+    ],
+    "pinyin": "dì",
+    "alternativePinyin": [
+      "de"
+    ],
+    "components": [
+      "earth",
+      "also"
+    ],
+    "meaningMnemonic": "Earth (土), and also (也) all the rest of it: not one mound of soil but the whole ground.",
+    "readingMnemonic": "'Dee' (dì) — fourth tone, dropping straight down to the floor."
+  },
+  {
+    "character": "有",
+    "level": 5,
+    "meaning": "to have",
+    "alternativeMeanings": [
+      "have",
+      "there is",
+      "exist",
+      "possess"
+    ],
+    "pinyin": "yǒu",
+    "alternativePinyin": [],
+    "components": [
+      "slash",
+      "moon"
+    ],
+    "meaningMnemonic": "A hand slashing (丿) up to grab the moon (月). If you can take hold of it, you have it.",
+    "readingMnemonic": "'Yo' (yǒu) — the same sound as 友 friend, third tone."
+  },
+  {
+    "character": "坐",
+    "level": 5,
+    "meaning": "to sit",
+    "alternativeMeanings": [
+      "sit",
+      "sit down",
+      "ride"
+    ],
+    "pinyin": "zuò",
+    "alternativePinyin": [],
+    "components": [
+      "person",
+      "person",
+      "earth"
+    ],
+    "meaningMnemonic": "Two people (人) sat down on the earth (土), one either side, talking.",
+    "readingMnemonic": "'Dzwor' (zuò) — the sound of sitting down heavily, fourth tone."
+  }
+]

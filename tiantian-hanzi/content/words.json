@@ -1,0 +1,1402 @@
+[
+  {
+    "word": "明天",
+    "level": 1,
+    "meaning": "tomorrow",
+    "alternativeMeanings": [
+      "the next day"
+    ],
+    "pinyin": "míng tiān",
+    "alternativePinyin": [],
+    "characters": [
+      "明",
+      "天"
+    ],
+    "meaningMnemonic": "The bright (明) sky (天) that has not arrived yet: tomorrow.",
+    "readingMnemonic": "Both characters keep their own readings: míng tiān."
+  },
+  {
+    "word": "白天",
+    "level": 1,
+    "meaning": "daytime",
+    "alternativeMeanings": [
+      "day",
+      "during the day"
+    ],
+    "pinyin": "bái tiān",
+    "alternativePinyin": [],
+    "characters": [
+      "白",
+      "天"
+    ],
+    "meaningMnemonic": "The white (白) part of the day (天) — the hours while the sun is up.",
+    "readingMnemonic": "bái tiān: second tone rising, then a flat first tone."
+  },
+  {
+    "word": "天天",
+    "level": 1,
+    "meaning": "every day",
+    "alternativeMeanings": [
+      "daily",
+      "day after day"
+    ],
+    "pinyin": "tiān tiān",
+    "alternativePinyin": [],
+    "characters": [
+      "天",
+      "天"
+    ],
+    "meaningMnemonic": "Day (天) after day (天). Doubling a word like this is how Chinese says 'every', and it is half the name of this app.",
+    "readingMnemonic": "Just say tiān twice, both flat."
+  },
+  {
+    "word": "大小",
+    "level": 1,
+    "meaning": "size",
+    "alternativeMeanings": [
+      "dimensions"
+    ],
+    "pinyin": "dà xiǎo",
+    "alternativePinyin": [],
+    "characters": [
+      "大",
+      "小"
+    ],
+    "meaningMnemonic": "Big (大) and small (小) glued together stop being opposites and become the scale itself: size.",
+    "readingMnemonic": "dà xiǎo: fourth tone dropping, then third tone dipping."
+  },
+  {
+    "word": "明白",
+    "level": 1,
+    "meaning": "to understand",
+    "alternativeMeanings": [
+      "understand",
+      "clear",
+      "see"
+    ],
+    "pinyin": "míng bai",
+    "alternativePinyin": [
+      "míng bái"
+    ],
+    "characters": [
+      "明",
+      "白"
+    ],
+    "meaningMnemonic": "Bright (明) and white (白): once a thing is lit up with no shadow left on it, you understand it.",
+    "readingMnemonic": "The second syllable goes neutral: míng bai, not míng bái."
+  },
+  {
+    "word": "早上",
+    "level": 1,
+    "meaning": "morning",
+    "alternativeMeanings": [
+      "in the morning"
+    ],
+    "pinyin": "zǎo shang",
+    "alternativePinyin": [
+      "zǎo shàng"
+    ],
+    "characters": [
+      "早",
+      "上"
+    ],
+    "meaningMnemonic": "The early (早) part sitting up (上) at the top of the day.",
+    "readingMnemonic": "zǎo shang: 上 drops to a neutral tone in this word."
+  },
+  {
+    "word": "不好",
+    "level": 1,
+    "meaning": "not good",
+    "alternativeMeanings": [
+      "bad",
+      "no good"
+    ],
+    "pinyin": "bù hǎo",
+    "alternativePinyin": [],
+    "characters": [
+      "不",
+      "好"
+    ],
+    "meaningMnemonic": "Not (不) good (好). The plainest complaint in the language.",
+    "readingMnemonic": "bù hǎo: 不 stays fourth tone because 好 is third."
+  },
+  {
+    "word": "太大",
+    "level": 1,
+    "meaning": "too big",
+    "alternativeMeanings": [
+      "too large"
+    ],
+    "pinyin": "tài dà",
+    "alternativePinyin": [],
+    "characters": [
+      "太",
+      "大"
+    ],
+    "meaningMnemonic": "Too (太) big (大) — said of a shirt, a bill, or an idea.",
+    "readingMnemonic": "tài dà: two fourth tones falling one after the other."
+  },
+  {
+    "word": "太太",
+    "level": 1,
+    "meaning": "Mrs.",
+    "alternativeMeanings": [
+      "wife",
+      "madam"
+    ],
+    "pinyin": "tài tai",
+    "alternativePinyin": [
+      "tài tài"
+    ],
+    "characters": [
+      "太",
+      "太"
+    ],
+    "meaningMnemonic": "Too (太) doubled turns into a title: Mrs., or somebody's wife.",
+    "readingMnemonic": "tài tai: the second syllable goes neutral."
+  },
+  {
+    "word": "你好",
+    "level": 2,
+    "meaning": "hello",
+    "alternativeMeanings": [
+      "hi",
+      "how do you do"
+    ],
+    "pinyin": "nǐ hǎo",
+    "alternativePinyin": [],
+    "characters": [
+      "你",
+      "好"
+    ],
+    "meaningMnemonic": "You (你) good (好): the first thing anybody learns to say in Chinese.",
+    "readingMnemonic": "Two third tones in a row, so the first one shifts up. It actually comes out as ní hǎo."
+  },
+  {
+    "word": "你们",
+    "level": 2,
+    "meaning": "you (plural)",
+    "alternativeMeanings": [
+      "you all",
+      "you guys"
+    ],
+    "pinyin": "nǐ men",
+    "alternativePinyin": [],
+    "characters": [
+      "你",
+      "们"
+    ],
+    "meaningMnemonic": "You (你) with the plural marker (们): more than one of you.",
+    "readingMnemonic": "nǐ men: 们 is always unstressed."
+  },
+  {
+    "word": "他们",
+    "level": 2,
+    "meaning": "they",
+    "alternativeMeanings": [
+      "them"
+    ],
+    "pinyin": "tā men",
+    "alternativePinyin": [],
+    "characters": [
+      "他",
+      "们"
+    ],
+    "meaningMnemonic": "He (他) plus the plural marker (们): they, or any mixed group.",
+    "readingMnemonic": "tā men: flat first tone, then neutral."
+  },
+  {
+    "word": "她们",
+    "level": 2,
+    "meaning": "they (women)",
+    "alternativeMeanings": [
+      "them (women)",
+      "they (female)"
+    ],
+    "pinyin": "tā men",
+    "alternativePinyin": [],
+    "characters": [
+      "她",
+      "们"
+    ],
+    "meaningMnemonic": "She (她) plus the plural marker (们): a group of women.",
+    "readingMnemonic": "Sounds exactly like 他们. Only the writing tells them apart."
+  },
+  {
+    "word": "什么",
+    "level": 2,
+    "meaning": "what",
+    "alternativeMeanings": [
+      "which",
+      "what kind of"
+    ],
+    "pinyin": "shén me",
+    "alternativePinyin": [],
+    "characters": [
+      "什",
+      "么"
+    ],
+    "meaningMnemonic": "What (什) with its question suffix (么). The question word you will reach for most often.",
+    "readingMnemonic": "shén me: the 么 is swallowed, close to 'shummuh'."
+  },
+  {
+    "word": "妈妈",
+    "level": 2,
+    "meaning": "mom",
+    "alternativeMeanings": [
+      "mother",
+      "mum",
+      "mama"
+    ],
+    "pinyin": "mā ma",
+    "alternativePinyin": [
+      "mā mā"
+    ],
+    "characters": [
+      "妈",
+      "妈"
+    ],
+    "meaningMnemonic": "Mother (妈) said twice, the way a small child says it.",
+    "readingMnemonic": "mā ma: first tone, then neutral."
+  },
+  {
+    "word": "好吗",
+    "level": 2,
+    "meaning": "is that ok?",
+    "alternativeMeanings": [
+      "ok?",
+      "how about it",
+      "are you well"
+    ],
+    "pinyin": "hǎo ma",
+    "alternativePinyin": [],
+    "characters": [
+      "好",
+      "吗"
+    ],
+    "meaningMnemonic": "Good (好) plus the question particle (吗): you have turned 'good' into 'good?'.",
+    "readingMnemonic": "hǎo ma: the particle carries no tone."
+  },
+  {
+    "word": "中间",
+    "level": 2,
+    "meaning": "middle",
+    "alternativeMeanings": [
+      "between",
+      "in the middle",
+      "centre"
+    ],
+    "pinyin": "zhōng jiān",
+    "alternativePinyin": [],
+    "characters": [
+      "中",
+      "间"
+    ],
+    "meaningMnemonic": "The centre (中) of the gap (间): the space right in between.",
+    "readingMnemonic": "zhōng jiān: two flat first tones."
+  },
+  {
+    "word": "问好",
+    "level": 2,
+    "meaning": "to send regards",
+    "alternativeMeanings": [
+      "say hello",
+      "greet",
+      "send greetings"
+    ],
+    "pinyin": "wèn hǎo",
+    "alternativePinyin": [],
+    "characters": [
+      "问",
+      "好"
+    ],
+    "meaningMnemonic": "To ask (问) whether someone is good (好): to say hello, or pass on your regards.",
+    "readingMnemonic": "wèn hǎo: falling, then dipping."
+  },
+  {
+    "word": "名字",
+    "level": 3,
+    "meaning": "name",
+    "alternativeMeanings": [
+      "full name",
+      "given name"
+    ],
+    "pinyin": "míng zi",
+    "alternativePinyin": [
+      "míng zì"
+    ],
+    "characters": [
+      "名",
+      "字"
+    ],
+    "meaningMnemonic": "The name (名) written out in characters (字): a person's name.",
+    "readingMnemonic": "字 goes neutral here: míng zi."
+  },
+  {
+    "word": "时间",
+    "level": 3,
+    "meaning": "time",
+    "alternativeMeanings": [
+      "duration",
+      "period"
+    ],
+    "pinyin": "shí jiān",
+    "alternativePinyin": [],
+    "characters": [
+      "时",
+      "间"
+    ],
+    "meaningMnemonic": "Time (时) measured in the gap (间) between two moments: time as something you can spend.",
+    "readingMnemonic": "shí jiān: rising, then flat."
+  },
+  {
+    "word": "小时",
+    "level": 3,
+    "meaning": "hour",
+    "alternativeMeanings": [
+      "an hour"
+    ],
+    "pinyin": "xiǎo shí",
+    "alternativePinyin": [],
+    "characters": [
+      "小",
+      "时"
+    ],
+    "meaningMnemonic": "A small (小) piece of time (时): one hour.",
+    "readingMnemonic": "xiǎo shí: third tone then second."
+  },
+  {
+    "word": "大家",
+    "level": 3,
+    "meaning": "everyone",
+    "alternativeMeanings": [
+      "everybody",
+      "all of us"
+    ],
+    "pinyin": "dà jiā",
+    "alternativePinyin": [],
+    "characters": [
+      "大",
+      "家"
+    ],
+    "meaningMnemonic": "The big (大) household (家): everybody in the room.",
+    "readingMnemonic": "dà jiā: falling, then flat."
+  },
+  {
+    "word": "多大",
+    "level": 3,
+    "meaning": "how old",
+    "alternativeMeanings": [
+      "how big",
+      "what size"
+    ],
+    "pinyin": "duō dà",
+    "alternativePinyin": [],
+    "characters": [
+      "多",
+      "大"
+    ],
+    "meaningMnemonic": "How many (多) big (大): the normal way to ask someone's age or the size of a thing.",
+    "readingMnemonic": "duō dà: first tone then fourth."
+  },
+  {
+    "word": "好看",
+    "level": 3,
+    "meaning": "good-looking",
+    "alternativeMeanings": [
+      "pretty",
+      "attractive",
+      "nice to look at"
+    ],
+    "pinyin": "hǎo kàn",
+    "alternativePinyin": [],
+    "characters": [
+      "好",
+      "看"
+    ],
+    "meaningMnemonic": "Good (好) to look at (看): pretty, or a good read.",
+    "readingMnemonic": "hǎo kàn: third then fourth."
+  },
+  {
+    "word": "看看",
+    "level": 3,
+    "meaning": "to take a look",
+    "alternativeMeanings": [
+      "have a look",
+      "take a look"
+    ],
+    "pinyin": "kàn kan",
+    "alternativePinyin": [
+      "kàn kàn"
+    ],
+    "characters": [
+      "看",
+      "看"
+    ],
+    "meaningMnemonic": "Look (看) doubled softens it into 'just have a quick look'.",
+    "readingMnemonic": "kàn kan: the second one goes neutral, and that is what makes it casual."
+  },
+  {
+    "word": "想想",
+    "level": 3,
+    "meaning": "to think it over",
+    "alternativeMeanings": [
+      "think about it",
+      "think it over"
+    ],
+    "pinyin": "xiǎng xiang",
+    "alternativePinyin": [
+      "xiǎng xiǎng"
+    ],
+    "characters": [
+      "想",
+      "想"
+    ],
+    "meaningMnemonic": "Think (想) doubled: give it a moment's thought.",
+    "readingMnemonic": "xiǎng xiang: again the second syllable drops to neutral."
+  },
+  {
+    "word": "朋友",
+    "level": 3,
+    "meaning": "friend",
+    "alternativeMeanings": [
+      "friends"
+    ],
+    "pinyin": "péng you",
+    "alternativePinyin": [
+      "péng yǒu"
+    ],
+    "characters": [
+      "朋",
+      "友"
+    ],
+    "meaningMnemonic": "Two different words for friend (朋 and 友) glued together into the everyday one.",
+    "readingMnemonic": "péng you: 友 loses its third tone and goes neutral."
+  },
+  {
+    "word": "出去",
+    "level": 3,
+    "meaning": "to go out",
+    "alternativeMeanings": [
+      "go out",
+      "get out"
+    ],
+    "pinyin": "chū qù",
+    "alternativePinyin": [],
+    "characters": [
+      "出",
+      "去"
+    ],
+    "meaningMnemonic": "Go out (出) and away (去): out of here, away from the speaker.",
+    "readingMnemonic": "chū qù: flat then falling."
+  },
+  {
+    "word": "在家",
+    "level": 3,
+    "meaning": "to be at home",
+    "alternativeMeanings": [
+      "at home",
+      "home"
+    ],
+    "pinyin": "zài jiā",
+    "alternativePinyin": [],
+    "characters": [
+      "在",
+      "家"
+    ],
+    "meaningMnemonic": "To be at (在) home (家): where you are, rather than where you are going.",
+    "readingMnemonic": "zài jiā: falling then flat."
+  },
+  {
+    "word": "不对",
+    "level": 3,
+    "meaning": "incorrect",
+    "alternativeMeanings": [
+      "wrong",
+      "not right"
+    ],
+    "pinyin": "bú duì",
+    "alternativePinyin": [
+      "bù duì"
+    ],
+    "characters": [
+      "不",
+      "对"
+    ],
+    "meaningMnemonic": "Not (不) correct (对): wrong.",
+    "readingMnemonic": "不 sits in front of a fourth tone, so it lifts to second: bú duì."
+  },
+  {
+    "word": "好朋友",
+    "level": 3,
+    "meaning": "good friend",
+    "alternativeMeanings": [
+      "close friend",
+      "best friend"
+    ],
+    "pinyin": "hǎo péng you",
+    "alternativePinyin": [
+      "hǎo péng yǒu"
+    ],
+    "characters": [
+      "好",
+      "朋",
+      "友"
+    ],
+    "meaningMnemonic": "A good (好) friend (朋友): three characters you already know, in a row.",
+    "readingMnemonic": "hǎo péng you, with the last syllable neutral."
+  },
+  {
+    "word": "不多",
+    "level": 3,
+    "meaning": "not much",
+    "alternativeMeanings": [
+      "not many",
+      "few"
+    ],
+    "pinyin": "bù duō",
+    "alternativePinyin": [],
+    "characters": [
+      "不",
+      "多"
+    ],
+    "meaningMnemonic": "Not (不) many (多): not much of it left.",
+    "readingMnemonic": "bù duō: 多 is first tone, so 不 keeps its full fourth tone."
+  },
+  {
+    "word": "汉语",
+    "level": 4,
+    "meaning": "Chinese language",
+    "alternativeMeanings": [
+      "Chinese",
+      "Mandarin"
+    ],
+    "pinyin": "hàn yǔ",
+    "alternativePinyin": [],
+    "characters": [
+      "汉",
+      "语"
+    ],
+    "meaningMnemonic": "The Han (汉) language (语): Chinese as a spoken language.",
+    "readingMnemonic": "hàn yǔ: falling, then dipping."
+  },
+  {
+    "word": "汉字",
+    "level": 4,
+    "meaning": "Chinese character",
+    "alternativeMeanings": [
+      "character",
+      "Chinese characters"
+    ],
+    "pinyin": "hàn zì",
+    "alternativePinyin": [],
+    "characters": [
+      "汉",
+      "字"
+    ],
+    "meaningMnemonic": "Han (汉) characters (字) — the writing this whole app is named after.",
+    "readingMnemonic": "hàn zì: two fourth tones, both falling."
+  },
+  {
+    "word": "说话",
+    "level": 4,
+    "meaning": "to speak",
+    "alternativeMeanings": [
+      "speak",
+      "talk",
+      "say something"
+    ],
+    "pinyin": "shuō huà",
+    "alternativePinyin": [],
+    "characters": [
+      "说",
+      "话"
+    ],
+    "meaningMnemonic": "To speak (说) speech (话): the act of talking.",
+    "readingMnemonic": "shuō huà: flat then falling."
+  },
+  {
+    "word": "电话",
+    "level": 4,
+    "meaning": "telephone",
+    "alternativeMeanings": [
+      "phone",
+      "phone call"
+    ],
+    "pinyin": "diàn huà",
+    "alternativePinyin": [],
+    "characters": [
+      "电",
+      "话"
+    ],
+    "meaningMnemonic": "Electric (电) speech (话): talk sent down a wire.",
+    "readingMnemonic": "diàn huà: two fourth tones."
+  },
+  {
+    "word": "谢谢",
+    "level": 4,
+    "meaning": "thank you",
+    "alternativeMeanings": [
+      "thanks",
+      "thank"
+    ],
+    "pinyin": "xiè xie",
+    "alternativePinyin": [
+      "xiè xiè"
+    ],
+    "characters": [
+      "谢",
+      "谢"
+    ],
+    "meaningMnemonic": "Thanks (谢) said twice, which is how it is actually said.",
+    "readingMnemonic": "xiè xie: the second one goes neutral."
+  },
+  {
+    "word": "水果",
+    "level": 4,
+    "meaning": "fruit",
+    "alternativeMeanings": [
+      "fresh fruit"
+    ],
+    "pinyin": "shuǐ guǒ",
+    "alternativePinyin": [],
+    "characters": [
+      "水",
+      "果"
+    ],
+    "meaningMnemonic": "Watery (水) fruit (果): the juicy kind you eat raw, as opposed to nuts.",
+    "readingMnemonic": "Two third tones, so the first rises: it comes out as shuí guǒ."
+  },
+  {
+    "word": "回来",
+    "level": 4,
+    "meaning": "to come back",
+    "alternativeMeanings": [
+      "come back",
+      "return"
+    ],
+    "pinyin": "huí lái",
+    "alternativePinyin": [],
+    "characters": [
+      "回",
+      "来"
+    ],
+    "meaningMnemonic": "Return (回) and come (来): back here, towards the speaker.",
+    "readingMnemonic": "huí lái: two rising second tones."
+  },
+  {
+    "word": "回去",
+    "level": 4,
+    "meaning": "to go back",
+    "alternativeMeanings": [
+      "go back",
+      "return"
+    ],
+    "pinyin": "huí qù",
+    "alternativePinyin": [],
+    "characters": [
+      "回",
+      "去"
+    ],
+    "meaningMnemonic": "Return (回) and go (去): back there, away from the speaker.",
+    "readingMnemonic": "huí qù: rising then falling."
+  },
+  {
+    "word": "回家",
+    "level": 4,
+    "meaning": "to go home",
+    "alternativeMeanings": [
+      "go home",
+      "come home",
+      "return home"
+    ],
+    "pinyin": "huí jiā",
+    "alternativePinyin": [],
+    "characters": [
+      "回",
+      "家"
+    ],
+    "meaningMnemonic": "Return (回) home (家): the trip back, not the house itself.",
+    "readingMnemonic": "huí jiā: rising then flat."
+  },
+  {
+    "word": "出来",
+    "level": 4,
+    "meaning": "to come out",
+    "alternativeMeanings": [
+      "come out",
+      "emerge"
+    ],
+    "pinyin": "chū lái",
+    "alternativePinyin": [],
+    "characters": [
+      "出",
+      "来"
+    ],
+    "meaningMnemonic": "Go out (出) and come (来): out towards the speaker.",
+    "readingMnemonic": "chū lái: flat then rising."
+  },
+  {
+    "word": "看见",
+    "level": 4,
+    "meaning": "to see",
+    "alternativeMeanings": [
+      "see",
+      "catch sight of"
+    ],
+    "pinyin": "kàn jiàn",
+    "alternativePinyin": [],
+    "characters": [
+      "看",
+      "见"
+    ],
+    "meaningMnemonic": "Look (看) and actually see (见): the looking succeeded.",
+    "readingMnemonic": "kàn jiàn: two fourth tones."
+  },
+  {
+    "word": "好吃",
+    "level": 4,
+    "meaning": "tasty",
+    "alternativeMeanings": [
+      "delicious",
+      "good to eat"
+    ],
+    "pinyin": "hǎo chī",
+    "alternativePinyin": [],
+    "characters": [
+      "好",
+      "吃"
+    ],
+    "meaningMnemonic": "Good (好) to eat (吃): delicious.",
+    "readingMnemonic": "hǎo chī: third then first."
+  },
+  {
+    "word": "说明",
+    "level": 4,
+    "meaning": "to explain",
+    "alternativeMeanings": [
+      "explain",
+      "explanation",
+      "make clear"
+    ],
+    "pinyin": "shuō míng",
+    "alternativePinyin": [],
+    "characters": [
+      "说",
+      "明"
+    ],
+    "meaningMnemonic": "Speak (说) until it is bright (明): to make a thing clear.",
+    "readingMnemonic": "shuō míng: flat then rising."
+  },
+  {
+    "word": "上学",
+    "level": 4,
+    "meaning": "to go to school",
+    "alternativeMeanings": [
+      "go to school",
+      "attend school"
+    ],
+    "pinyin": "shàng xué",
+    "alternativePinyin": [],
+    "characters": [
+      "上",
+      "学"
+    ],
+    "meaningMnemonic": "Go up (上) to study (学): the daily trip to school.",
+    "readingMnemonic": "shàng xué: falling then rising."
+  },
+  {
+    "word": "大学",
+    "level": 4,
+    "meaning": "university",
+    "alternativeMeanings": [
+      "college"
+    ],
+    "pinyin": "dà xué",
+    "alternativePinyin": [],
+    "characters": [
+      "大",
+      "学"
+    ],
+    "meaningMnemonic": "The big (大) school (学): the one you go to last.",
+    "readingMnemonic": "dà xué: falling then rising."
+  },
+  {
+    "word": "中学",
+    "level": 4,
+    "meaning": "middle school",
+    "alternativeMeanings": [
+      "secondary school",
+      "high school"
+    ],
+    "pinyin": "zhōng xué",
+    "alternativePinyin": [],
+    "characters": [
+      "中",
+      "学"
+    ],
+    "meaningMnemonic": "The middle (中) school (学): the one between primary and university.",
+    "readingMnemonic": "zhōng xué: flat then rising."
+  },
+  {
+    "word": "小学",
+    "level": 4,
+    "meaning": "elementary school",
+    "alternativeMeanings": [
+      "primary school"
+    ],
+    "pinyin": "xiǎo xué",
+    "alternativePinyin": [],
+    "characters": [
+      "小",
+      "学"
+    ],
+    "meaningMnemonic": "The small (小) school (学): where the small ones go.",
+    "readingMnemonic": "xiǎo xué: dipping then rising."
+  },
+  {
+    "word": "学好",
+    "level": 4,
+    "meaning": "to master",
+    "alternativeMeanings": [
+      "learn well",
+      "master"
+    ],
+    "pinyin": "xué hǎo",
+    "alternativePinyin": [],
+    "characters": [
+      "学",
+      "好"
+    ],
+    "meaningMnemonic": "Study (学) a thing until it is good (好): learn it properly.",
+    "readingMnemonic": "xué hǎo: rising then dipping."
+  },
+  {
+    "word": "我们",
+    "level": 5,
+    "meaning": "we",
+    "alternativeMeanings": [
+      "us",
+      "our"
+    ],
+    "pinyin": "wǒ men",
+    "alternativePinyin": [],
+    "characters": [
+      "我",
+      "们"
+    ],
+    "meaningMnemonic": "I (我) with the plural marker (们): us.",
+    "readingMnemonic": "wǒ men: 们 unstressed, as always."
+  },
+  {
+    "word": "不是",
+    "level": 5,
+    "meaning": "is not",
+    "alternativeMeanings": [
+      "am not",
+      "are not",
+      "no"
+    ],
+    "pinyin": "bú shì",
+    "alternativePinyin": [
+      "bù shì"
+    ],
+    "characters": [
+      "不",
+      "是"
+    ],
+    "meaningMnemonic": "Not (不) to be (是): the flat denial.",
+    "readingMnemonic": "In front of a fourth tone 不 lifts to second: bú shì."
+  },
+  {
+    "word": "学生",
+    "level": 5,
+    "meaning": "student",
+    "alternativeMeanings": [
+      "pupil",
+      "schoolchild"
+    ],
+    "pinyin": "xué sheng",
+    "alternativePinyin": [
+      "xué shēng"
+    ],
+    "characters": [
+      "学",
+      "生"
+    ],
+    "meaningMnemonic": "One who studies (学) and is still growing (生): a student.",
+    "readingMnemonic": "xué sheng: 生 usually goes neutral in this word."
+  },
+  {
+    "word": "老师",
+    "level": 5,
+    "meaning": "teacher",
+    "alternativeMeanings": [
+      "professor",
+      "instructor"
+    ],
+    "pinyin": "lǎo shī",
+    "alternativePinyin": [],
+    "characters": [
+      "老",
+      "师"
+    ],
+    "meaningMnemonic": "The venerable (老) master (师). The 老 is respect, not age.",
+    "readingMnemonic": "lǎo shī: dipping then flat."
+  },
+  {
+    "word": "中国",
+    "level": 5,
+    "meaning": "China",
+    "alternativeMeanings": [
+      "Chinese",
+      "the Middle Kingdom"
+    ],
+    "pinyin": "zhōng guó",
+    "alternativePinyin": [],
+    "characters": [
+      "中",
+      "国"
+    ],
+    "meaningMnemonic": "The middle (中) country (国): the Middle Kingdom.",
+    "readingMnemonic": "zhōng guó: flat then rising."
+  },
+  {
+    "word": "中文",
+    "level": 5,
+    "meaning": "Chinese language",
+    "alternativeMeanings": [
+      "Chinese",
+      "written Chinese"
+    ],
+    "pinyin": "zhōng wén",
+    "alternativePinyin": [],
+    "characters": [
+      "中",
+      "文"
+    ],
+    "meaningMnemonic": "Middle-kingdom (中) writing (文): Chinese, especially the written language.",
+    "readingMnemonic": "zhōng wén: flat then rising."
+  },
+  {
+    "word": "国家",
+    "level": 5,
+    "meaning": "country",
+    "alternativeMeanings": [
+      "nation",
+      "state"
+    ],
+    "pinyin": "guó jiā",
+    "alternativePinyin": [],
+    "characters": [
+      "国",
+      "家"
+    ],
+    "meaningMnemonic": "The nation (国) treated as one household (家): a country.",
+    "readingMnemonic": "guó jiā: rising then flat."
+  },
+  {
+    "word": "火车",
+    "level": 5,
+    "meaning": "train",
+    "alternativeMeanings": [
+      "railway train"
+    ],
+    "pinyin": "huǒ chē",
+    "alternativePinyin": [],
+    "characters": [
+      "火",
+      "车"
+    ],
+    "meaningMnemonic": "The fire (火) vehicle (车): the one that ran on burning coal.",
+    "readingMnemonic": "huǒ chē: dipping then flat."
+  },
+  {
+    "word": "上车",
+    "level": 5,
+    "meaning": "to board",
+    "alternativeMeanings": [
+      "get on",
+      "get in a vehicle",
+      "board"
+    ],
+    "pinyin": "shàng chē",
+    "alternativePinyin": [],
+    "characters": [
+      "上",
+      "车"
+    ],
+    "meaningMnemonic": "Get up (上) into the vehicle (车) — the same 上 that means 'up' does duty for boarding anything.",
+    "readingMnemonic": "shàng chē: falling then flat."
+  },
+  {
+    "word": "下车",
+    "level": 5,
+    "meaning": "to get off",
+    "alternativeMeanings": [
+      "get off",
+      "get out of a vehicle",
+      "alight"
+    ],
+    "pinyin": "xià chē",
+    "alternativePinyin": [],
+    "characters": [
+      "下",
+      "车"
+    ],
+    "meaningMnemonic": "Get down (下) out of the vehicle (车), the mirror image of 上车.",
+    "readingMnemonic": "xià chē: falling then flat."
+  },
+  {
+    "word": "出国",
+    "level": 5,
+    "meaning": "to go abroad",
+    "alternativeMeanings": [
+      "go abroad",
+      "leave the country"
+    ],
+    "pinyin": "chū guó",
+    "alternativePinyin": [],
+    "characters": [
+      "出",
+      "国"
+    ],
+    "meaningMnemonic": "Go out (出) of the country (国).",
+    "readingMnemonic": "chū guó: flat then rising."
+  },
+  {
+    "word": "回国",
+    "level": 5,
+    "meaning": "to return to one's country",
+    "alternativeMeanings": [
+      "return home country",
+      "go back to one's country"
+    ],
+    "pinyin": "huí guó",
+    "alternativePinyin": [],
+    "characters": [
+      "回",
+      "国"
+    ],
+    "meaningMnemonic": "Return (回) to your own country (国).",
+    "readingMnemonic": "huí guó: two rising tones."
+  },
+  {
+    "word": "有名",
+    "level": 5,
+    "meaning": "famous",
+    "alternativeMeanings": [
+      "well-known",
+      "renowned"
+    ],
+    "pinyin": "yǒu míng",
+    "alternativePinyin": [],
+    "characters": [
+      "有",
+      "名"
+    ],
+    "meaningMnemonic": "To have (有) a name (名): people know who you are.",
+    "readingMnemonic": "yǒu míng: dipping then rising."
+  },
+  {
+    "word": "地上",
+    "level": 5,
+    "meaning": "on the ground",
+    "alternativeMeanings": [
+      "on the floor",
+      "on the earth"
+    ],
+    "pinyin": "dì shang",
+    "alternativePinyin": [
+      "dì shàng"
+    ],
+    "characters": [
+      "地",
+      "上"
+    ],
+    "meaningMnemonic": "On top (上) of the ground (地).",
+    "readingMnemonic": "dì shang: 上 goes neutral in position words like this."
+  },
+  {
+    "word": "坐下",
+    "level": 5,
+    "meaning": "to sit down",
+    "alternativeMeanings": [
+      "sit down",
+      "take a seat"
+    ],
+    "pinyin": "zuò xià",
+    "alternativePinyin": [],
+    "characters": [
+      "坐",
+      "下"
+    ],
+    "meaningMnemonic": "Sit (坐) down (下). Both halves are literal, and together they are what a Chinese host says first.",
+    "readingMnemonic": "zuò xià: two fourth tones."
+  },
+  {
+    "word": "坐车",
+    "level": 5,
+    "meaning": "to travel by vehicle",
+    "alternativeMeanings": [
+      "ride",
+      "go by car",
+      "take a bus"
+    ],
+    "pinyin": "zuò chē",
+    "alternativePinyin": [],
+    "characters": [
+      "坐",
+      "车"
+    ],
+    "meaningMnemonic": "Sit (坐) in a vehicle (车): to go somewhere by bus, car or train.",
+    "readingMnemonic": "zuò chē: falling then flat."
+  },
+  {
+    "word": "老家",
+    "level": 5,
+    "meaning": "hometown",
+    "alternativeMeanings": [
+      "native place",
+      "family home"
+    ],
+    "pinyin": "lǎo jiā",
+    "alternativePinyin": [],
+    "characters": [
+      "老",
+      "家"
+    ],
+    "meaningMnemonic": "Your old (老) home (家): the place your family comes from.",
+    "readingMnemonic": "lǎo jiā: dipping then flat."
+  },
+  {
+    "word": "文字",
+    "level": 5,
+    "meaning": "script",
+    "alternativeMeanings": [
+      "writing",
+      "written language",
+      "characters"
+    ],
+    "pinyin": "wén zì",
+    "alternativePinyin": [],
+    "characters": [
+      "文",
+      "字"
+    ],
+    "meaningMnemonic": "Writing (文) and characters (字): a writing system.",
+    "readingMnemonic": "wén zì: rising then falling."
+  },
+  {
+    "word": "语文",
+    "level": 5,
+    "meaning": "language and literature",
+    "alternativeMeanings": [
+      "language arts",
+      "Chinese class"
+    ],
+    "pinyin": "yǔ wén",
+    "alternativePinyin": [],
+    "characters": [
+      "语",
+      "文"
+    ],
+    "meaningMnemonic": "Spoken language (语) and writing (文): the school subject that covers both.",
+    "readingMnemonic": "yǔ wén: dipping then rising."
+  },
+  {
+    "word": "是不是",
+    "level": 5,
+    "meaning": "is it or not",
+    "alternativeMeanings": [
+      "isn't it",
+      "right?"
+    ],
+    "pinyin": "shì bu shì",
+    "alternativePinyin": [
+      "shì bù shì"
+    ],
+    "characters": [
+      "是",
+      "不",
+      "是"
+    ],
+    "meaningMnemonic": "Is (是), not (不), is (是): the standard way to build a yes-no question in Chinese.",
+    "readingMnemonic": "The middle 不 is swallowed: shì bu shì."
+  },
+  {
+    "word": "大学生",
+    "level": 5,
+    "meaning": "university student",
+    "alternativeMeanings": [
+      "college student"
+    ],
+    "pinyin": "dà xué shēng",
+    "alternativePinyin": [],
+    "characters": [
+      "大",
+      "学",
+      "生"
+    ],
+    "meaningMnemonic": "A university (大学) student (生).",
+    "readingMnemonic": "dà xué shēng: falling, rising, flat."
+  },
+  {
+    "word": "中学生",
+    "level": 5,
+    "meaning": "middle school student",
+    "alternativeMeanings": [
+      "secondary school student",
+      "high school student"
+    ],
+    "pinyin": "zhōng xué shēng",
+    "alternativePinyin": [],
+    "characters": [
+      "中",
+      "学",
+      "生"
+    ],
+    "meaningMnemonic": "A middle-school (中学) student (生).",
+    "readingMnemonic": "zhōng xué shēng: flat, rising, flat."
+  },
+  {
+    "word": "老朋友",
+    "level": 5,
+    "meaning": "old friend",
+    "alternativeMeanings": [
+      "longtime friend"
+    ],
+    "pinyin": "lǎo péng you",
+    "alternativePinyin": [
+      "lǎo péng yǒu"
+    ],
+    "characters": [
+      "老",
+      "朋",
+      "友"
+    ],
+    "meaningMnemonic": "An old (老) friend (朋友) — old in years of friendship, not in age.",
+    "readingMnemonic": "lǎo péng you, with the last syllable neutral."
+  },
+  {
+    "word": "我家",
+    "level": 5,
+    "meaning": "my home",
+    "alternativeMeanings": [
+      "my family",
+      "my house"
+    ],
+    "pinyin": "wǒ jiā",
+    "alternativePinyin": [],
+    "characters": [
+      "我",
+      "家"
+    ],
+    "meaningMnemonic": "My (我) home (家). Possession needs no extra word here.",
+    "readingMnemonic": "wǒ jiā: dipping then flat."
+  },
+  {
+    "word": "有时",
+    "level": 5,
+    "meaning": "sometimes",
+    "alternativeMeanings": [
+      "at times",
+      "occasionally"
+    ],
+    "pinyin": "yǒu shí",
+    "alternativePinyin": [],
+    "characters": [
+      "有",
+      "时"
+    ],
+    "meaningMnemonic": "There are (有) times (时) when: sometimes.",
+    "readingMnemonic": "yǒu shí: dipping then rising."
+  },
+  {
+    "word": "生字",
+    "level": 5,
+    "meaning": "new character",
+    "alternativeMeanings": [
+      "unfamiliar character",
+      "new word"
+    ],
+    "pinyin": "shēng zì",
+    "alternativePinyin": [],
+    "characters": [
+      "生",
+      "字"
+    ],
+    "meaningMnemonic": "A raw (生) character (字): one you have not cooked yet. 生 also means uncooked.",
+    "readingMnemonic": "shēng zì: flat then falling."
+  },
+  {
+    "word": "学问",
+    "level": 5,
+    "meaning": "learning",
+    "alternativeMeanings": [
+      "knowledge",
+      "scholarship"
+    ],
+    "pinyin": "xué wen",
+    "alternativePinyin": [
+      "xué wèn"
+    ],
+    "characters": [
+      "学",
+      "问"
+    ],
+    "meaningMnemonic": "Studying (学) and asking (问): everything you know from having done both.",
+    "readingMnemonic": "xué wen: the second syllable goes neutral."
+  },
+  {
+    "word": "出生",
+    "level": 5,
+    "meaning": "to be born",
+    "alternativeMeanings": [
+      "born",
+      "birth"
+    ],
+    "pinyin": "chū shēng",
+    "alternativePinyin": [],
+    "characters": [
+      "出",
+      "生"
+    ],
+    "meaningMnemonic": "To come out (出) and start living (生).",
+    "readingMnemonic": "chū shēng: two flat first tones."
+  },
+  {
+    "word": "老大",
+    "level": 5,
+    "meaning": "eldest",
+    "alternativeMeanings": [
+      "oldest child",
+      "boss"
+    ],
+    "pinyin": "lǎo dà",
+    "alternativePinyin": [],
+    "characters": [
+      "老",
+      "大"
+    ],
+    "meaningMnemonic": "The old (老) big (大) one: the eldest child, or whoever is in charge.",
+    "readingMnemonic": "lǎo dà: dipping then falling."
+  },
+  {
+    "word": "明天见",
+    "level": 5,
+    "meaning": "see you tomorrow",
+    "alternativeMeanings": [
+      "see you tomorrow!"
+    ],
+    "pinyin": "míng tiān jiàn",
+    "alternativePinyin": [],
+    "characters": [
+      "明",
+      "天",
+      "见"
+    ],
+    "meaningMnemonic": "Tomorrow (明天) we see (见) each other.",
+    "readingMnemonic": "míng tiān jiàn: rising, flat, falling."
+  }
+]

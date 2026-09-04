@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+/*
+  Tiantian Hanzi's design tokens.
+
+  Item types get a three-hue categorical palette — jade, cinnabar, ochre —
+  chosen for colour-blind separation on this paper background and deliberately
+  unlike WaniKani's blue/pink/purple. The SRS ladder is a separate sequential
+  stone ramp, so "which kind of thing is this" and "how well do I know it" never
+  compete for the same colour.
+*/
+@theme {
+  --color-paper: #fbf9f5;
+  --color-surface: #ffffff;
+  --color-sunk: #f4f1ea;
+  --color-line: #e7e2d9;
+  --color-line-strong: #d8d2c6;
+  --color-ink: #1f1d1a;
+  --color-ink-soft: #57534b;
+  --color-ink-faint: #8a847a;
+
+  --color-component: #00897d;
+  --color-character: #c0392b;
+  --color-word: #b07e0f;
+
+  --color-apprentice: #cdbfa8;
+  --color-guru: #a8977a;
+  --color-master: #7d6f57;
+  --color-enlightened: #4f4738;
+  --color-burned: #26221c;
+
+  --color-correct: #1f7a4d;
+  --color-incorrect: #b3261e;
+
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-hanzi: "Noto Serif SC", "Songti SC", "SimSun", "STSong", "Source Han Serif SC", serif;
+}
+
+html {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.hanzi {
+  font-family: var(--font-hanzi);
+  font-weight: 500;
+  line-height: 1.15;
+}
+
+/* Focus is always visible: reviews are meant to be driven from the keyboard. */
+:focus-visible {
+  outline: 2px solid var(--color-ink);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-7px); }
+  40% { transform: translateX(7px); }
+  60% { transform: translateX(-4px); }
+  80% { transform: translateX(4px); }
+}
+
+.animate-shake {
+  animation: shake 320ms ease-in-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-shake {
+    animation: none;
+  }
+}

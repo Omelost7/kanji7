@@ -1,0 +1,506 @@
+[
+  {
+    "slug": "one",
+    "character": "一",
+    "level": 1,
+    "meaning": "one",
+    "alternativeMeanings": [
+      "1",
+      "single"
+    ],
+    "meaningMnemonic": "A single horizontal stroke. The number one, and the flattest thing you will ever write."
+  },
+  {
+    "slug": "rod",
+    "character": "丨",
+    "level": 1,
+    "meaning": "rod",
+    "alternativeMeanings": [
+      "stick",
+      "vertical stroke",
+      "line"
+    ],
+    "meaningMnemonic": "One straight vertical stroke, like an iron rod standing on end."
+  },
+  {
+    "slug": "dot",
+    "character": "丶",
+    "level": 1,
+    "meaning": "dot",
+    "alternativeMeanings": [
+      "drop",
+      "spark"
+    ],
+    "meaningMnemonic": "A single drop of ink flicked off the tip of the brush."
+  },
+  {
+    "slug": "slash",
+    "character": "丿",
+    "level": 1,
+    "meaning": "slash",
+    "alternativeMeanings": [
+      "cut",
+      "sweep"
+    ],
+    "meaningMnemonic": "A stroke leaning to the left, like a sword slash cutting through the air."
+  },
+  {
+    "slug": "eight",
+    "character": "八",
+    "level": 1,
+    "meaning": "eight",
+    "alternativeMeanings": [
+      "8",
+      "split"
+    ],
+    "meaningMnemonic": "Two legs splitting apart. Eight is the lucky number that splits open and pours out money."
+  },
+  {
+    "slug": "ten",
+    "character": "十",
+    "level": 1,
+    "meaning": "ten",
+    "alternativeMeanings": [
+      "10",
+      "cross"
+    ],
+    "meaningMnemonic": "A cross of two full strokes: two hands of five fingers laid over each other."
+  },
+  {
+    "slug": "person",
+    "character": "人",
+    "level": 1,
+    "meaning": "person",
+    "alternativeMeanings": [
+      "human",
+      "people",
+      "man"
+    ],
+    "meaningMnemonic": "Two legs walking. Squashed against the left edge of a character it thins into 亻, but it is still a person."
+  },
+  {
+    "slug": "mouth",
+    "character": "口",
+    "level": 1,
+    "meaning": "mouth",
+    "alternativeMeanings": [
+      "opening",
+      "hole"
+    ],
+    "meaningMnemonic": "An open square. A mouth, or any hole you can shout into."
+  },
+  {
+    "slug": "sun",
+    "character": "日",
+    "level": 1,
+    "meaning": "sun",
+    "alternativeMeanings": [
+      "day"
+    ],
+    "meaningMnemonic": "A window with one bar across the middle: the sun, and by extension a day."
+  },
+  {
+    "slug": "moon",
+    "character": "月",
+    "level": 1,
+    "meaning": "moon",
+    "alternativeMeanings": [
+      "month",
+      "flesh"
+    ],
+    "meaningMnemonic": "A crescent moon lying on its side with two clouds drifting across it."
+  },
+  {
+    "slug": "woman",
+    "character": "女",
+    "level": 1,
+    "meaning": "woman",
+    "alternativeMeanings": [
+      "female",
+      "girl"
+    ],
+    "meaningMnemonic": "A figure kneeling with her legs crossed and her arms folded: a woman."
+  },
+  {
+    "slug": "child",
+    "character": "子",
+    "level": 1,
+    "meaning": "child",
+    "alternativeMeanings": [
+      "baby",
+      "son"
+    ],
+    "meaningMnemonic": "A baby with both arms thrown out and a blanket wrapped tight around its legs."
+  },
+  {
+    "slug": "big",
+    "character": "大",
+    "level": 1,
+    "meaning": "big",
+    "alternativeMeanings": [
+      "large",
+      "great"
+    ],
+    "meaningMnemonic": "A person standing with arms and legs flung as wide as they will go: big."
+  },
+  {
+    "slug": "ribbon",
+    "character": "尔",
+    "level": 2,
+    "meaning": "ribbon",
+    "alternativeMeanings": [
+      "bow",
+      "tassel"
+    ],
+    "meaningMnemonic": "A little bow tied at the top with two ribbon-tails hanging down."
+  },
+  {
+    "slug": "also",
+    "character": "也",
+    "level": 2,
+    "meaning": "also",
+    "alternativeMeanings": [
+      "too",
+      "as well"
+    ],
+    "meaningMnemonic": "A flourish with a hooked tail that the brush adds when it wants to say 'this one too'."
+  },
+  {
+    "slug": "door",
+    "character": "门",
+    "level": 2,
+    "meaning": "door",
+    "alternativeMeanings": [
+      "gate"
+    ],
+    "meaningMnemonic": "Two door panels swinging under one lintel."
+  },
+  {
+    "slug": "horse",
+    "character": "马",
+    "level": 2,
+    "meaning": "horse",
+    "alternativeMeanings": [
+      "pony"
+    ],
+    "meaningMnemonic": "A galloping horse: mane flying on top, one leg kicking out, tail sweeping the ground."
+  },
+  {
+    "slug": "roof",
+    "character": "宀",
+    "level": 2,
+    "meaning": "roof",
+    "alternativeMeanings": [
+      "house top",
+      "lid of a house"
+    ],
+    "meaningMnemonic": "A roof with a chimney dot on top, covering everything written underneath it."
+  },
+  {
+    "slug": "cocoon",
+    "character": "厶",
+    "level": 2,
+    "meaning": "cocoon",
+    "alternativeMeanings": [
+      "spiral",
+      "private"
+    ],
+    "meaningMnemonic": "A tight little spiral, exactly the shape a silkworm wraps itself in."
+  },
+  {
+    "slug": "tree",
+    "character": "木",
+    "level": 2,
+    "meaning": "tree",
+    "alternativeMeanings": [
+      "wood"
+    ],
+    "meaningMnemonic": "A trunk, two branches reaching out, two roots reaching down."
+  },
+  {
+    "slug": "mountain",
+    "character": "山",
+    "level": 2,
+    "meaning": "mountain",
+    "alternativeMeanings": [
+      "hill",
+      "peak"
+    ],
+    "meaningMnemonic": "Three peaks rising out of one ridge."
+  },
+  {
+    "slug": "eye",
+    "character": "目",
+    "level": 3,
+    "meaning": "eye",
+    "alternativeMeanings": [
+      "see",
+      "look"
+    ],
+    "meaningMnemonic": "An eye stood on its end, pupil lines drawn inside."
+  },
+  {
+    "slug": "heart",
+    "character": "心",
+    "level": 3,
+    "meaning": "heart",
+    "alternativeMeanings": [
+      "mind",
+      "feeling"
+    ],
+    "meaningMnemonic": "A heart with three drops of blood flying off it."
+  },
+  {
+    "slug": "hand",
+    "character": "手",
+    "level": 3,
+    "meaning": "hand",
+    "alternativeMeanings": [
+      "palm"
+    ],
+    "meaningMnemonic": "A hand with the fingers drawn as three lines. Flattened onto the left of a character it becomes 扌."
+  },
+  {
+    "slug": "again",
+    "character": "又",
+    "level": 3,
+    "meaning": "again",
+    "alternativeMeanings": [
+      "right hand",
+      "once more"
+    ],
+    "meaningMnemonic": "A right hand reaching out to grab something one more time."
+  },
+  {
+    "slug": "evening",
+    "character": "夕",
+    "level": 3,
+    "meaning": "evening",
+    "alternativeMeanings": [
+      "dusk",
+      "night"
+    ],
+    "meaningMnemonic": "The moon with one stroke missing: half set, so it must be evening."
+  },
+  {
+    "slug": "earth",
+    "character": "土",
+    "level": 3,
+    "meaning": "earth",
+    "alternativeMeanings": [
+      "soil",
+      "ground",
+      "dirt"
+    ],
+    "meaningMnemonic": "A mound of soil pressed down flat onto the ground."
+  },
+  {
+    "slug": "inch",
+    "character": "寸",
+    "level": 3,
+    "meaning": "inch",
+    "alternativeMeanings": [
+      "thumb",
+      "measure"
+    ],
+    "meaningMnemonic": "A hand with a dot at the wrist, marking the pulse one inch below the palm."
+  },
+  {
+    "slug": "pig",
+    "character": "豕",
+    "level": 3,
+    "meaning": "pig",
+    "alternativeMeanings": [
+      "boar",
+      "hog"
+    ],
+    "meaningMnemonic": "A pig seen from the side: snout up front, bristles on its back, four trotters underneath."
+  },
+  {
+    "slug": "field",
+    "character": "田",
+    "level": 3,
+    "meaning": "field",
+    "alternativeMeanings": [
+      "rice paddy",
+      "farm"
+    ],
+    "meaningMnemonic": "A field cut into four plots by the irrigation paths running through it."
+  },
+  {
+    "slug": "speech",
+    "character": "讠",
+    "level": 4,
+    "meaning": "speech",
+    "alternativeMeanings": [
+      "words",
+      "say",
+      "talk"
+    ],
+    "meaningMnemonic": "A dot above a folded line: words folding out of somebody's mouth."
+  },
+  {
+    "slug": "water",
+    "character": "氵",
+    "level": 4,
+    "meaning": "water",
+    "alternativeMeanings": [
+      "splash",
+      "liquid"
+    ],
+    "meaningMnemonic": "Three drops of water splashed down the left-hand side."
+  },
+  {
+    "slug": "hook",
+    "character": "乚",
+    "level": 4,
+    "meaning": "hook",
+    "alternativeMeanings": [
+      "curve",
+      "fish hook"
+    ],
+    "meaningMnemonic": "A stroke that runs down, turns, and hooks back up at the end."
+  },
+  {
+    "slug": "legs",
+    "character": "儿",
+    "level": 4,
+    "meaning": "legs",
+    "alternativeMeanings": [
+      "walking legs",
+      "son"
+    ],
+    "meaningMnemonic": "A pair of legs striding out from under whatever sits on top."
+  },
+  {
+    "slug": "enclosure",
+    "character": "囗",
+    "level": 4,
+    "meaning": "enclosure",
+    "alternativeMeanings": [
+      "box",
+      "walls",
+      "surround"
+    ],
+    "meaningMnemonic": "A closed box: walls all the way round with no gap to escape through."
+  },
+  {
+    "slug": "tongue",
+    "character": "舌",
+    "level": 4,
+    "meaning": "tongue",
+    "alternativeMeanings": [
+      "taste"
+    ],
+    "meaningMnemonic": "A tongue sticking out of an open mouth."
+  },
+  {
+    "slug": "five",
+    "character": "五",
+    "level": 4,
+    "meaning": "five",
+    "alternativeMeanings": [
+      "5"
+    ],
+    "meaningMnemonic": "Five strokes tangled up between two lines, one hand's worth of fingers."
+  },
+  {
+    "slug": "body",
+    "character": "身",
+    "level": 4,
+    "meaning": "body",
+    "alternativeMeanings": [
+      "torso",
+      "self"
+    ],
+    "meaningMnemonic": "A person in profile with a heavy belly: the whole body."
+  },
+  {
+    "slug": "cover",
+    "character": "冖",
+    "level": 4,
+    "meaning": "cover",
+    "alternativeMeanings": [
+      "cloth cover",
+      "hood"
+    ],
+    "meaningMnemonic": "A cloth laid flat over the top of something to keep it hidden."
+  },
+  {
+    "slug": "jade",
+    "character": "玉",
+    "level": 5,
+    "meaning": "jade",
+    "alternativeMeanings": [
+      "jewel",
+      "gem"
+    ],
+    "meaningMnemonic": "A king (王) with one dot beside him: the single jewel a king never puts down."
+  },
+  {
+    "slug": "spear",
+    "character": "戈",
+    "level": 5,
+    "meaning": "spear",
+    "alternativeMeanings": [
+      "halberd",
+      "weapon"
+    ],
+    "meaningMnemonic": "A halberd with a hook on the shaft and a dot for the tassel."
+  },
+  {
+    "slug": "upright",
+    "character": "正",
+    "level": 5,
+    "meaning": "upright",
+    "alternativeMeanings": [
+      "correct",
+      "straight"
+    ],
+    "meaningMnemonic": "A foot brought to a stop exactly on the line: straight and correct."
+  },
+  {
+    "slug": "dagger",
+    "character": "匕",
+    "level": 5,
+    "meaning": "dagger",
+    "alternativeMeanings": [
+      "knife",
+      "spoon"
+    ],
+    "meaningMnemonic": "A short curved blade: a dagger in a fight, a spoon in the kitchen."
+  },
+  {
+    "slug": "cloth",
+    "character": "巾",
+    "level": 5,
+    "meaning": "cloth",
+    "alternativeMeanings": [
+      "towel",
+      "cloth hanging"
+    ],
+    "meaningMnemonic": "A cloth hanging down over a rail."
+  },
+  {
+    "slug": "lid",
+    "character": "亠",
+    "level": 5,
+    "meaning": "lid",
+    "alternativeMeanings": [
+      "cap",
+      "top"
+    ],
+    "meaningMnemonic": "A dot with a line under it, set on top of a character like a lid."
+  },
+  {
+    "slug": "cross",
+    "character": "乂",
+    "level": 5,
+    "meaning": "cross",
+    "alternativeMeanings": [
+      "x",
+      "crossed strokes"
+    ],
+    "meaningMnemonic": "Two strokes crossing over each other in the middle."
+  }
+]
