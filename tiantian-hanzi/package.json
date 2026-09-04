@@ -10,7 +10,7 @@
     "test": "node --import tsx --test src/lib/*.test.ts",
     "db:generate": "drizzle-kit generate",
     "db:migrate": "tsx src/db/migrate.ts",
-    "db:reset": "rm -f data/tiantian.db && tsx src/db/migrate.ts",
+    "db:reset": "rm -f data/tiantian.db data/tiantian.db-wal data/tiantian.db-shm && tsx src/db/migrate.ts",
     "content:check": "node --import tsx --test src/lib/content.test.ts"
   },
   "dependencies": {
