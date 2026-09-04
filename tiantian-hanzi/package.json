@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=20 <25"
+    "node": ">=20"
   },
   "scripts": {
     "dev": "next dev",
@@ -17,7 +17,7 @@
     "content:check": "node --import tsx --test src/lib/content.test.ts"
   },
   "dependencies": {
-    "better-sqlite3": "^13.0.3",
+    "better-sqlite3": "^12.11.1",
     "drizzle-orm": "^0.45.2",
     "next": "^15.5.25",
     "react": "^19.2.8",

@@ -34,14 +34,16 @@ That is the whole setup — SQLite file, no services, no accounts.
 | `npm run db:generate` | Regenerates SQL migrations after editing `src/db/schema.ts` |
 | `npm run db:reset` | Deletes the database and starts over (stop `npm run dev` first — it holds the file open) |
 
-### Node version
+### Node version and native modules
 
-Use **Node 20 or 22 (LTS)**. `better-sqlite3` publishes prebuilt binaries for LTS
-releases only; on a current release such as Node 24 `npm install` falls back to
-compiling from source, which needs a C++ toolchain (on Windows, Visual Studio Build
-Tools with the "Desktop development with C++" workload). If you see `node-gyp`,
-`MSBuild` or "Could not find any Visual Studio installation" during install, switch
-to an LTS Node, delete `node_modules`, and install again.
+Use **Node 20 or newer**.
+
+`better-sqlite3` is pinned to `^12` on purpose: from v13 it stopped shipping
+prebuilt binaries, so `npm install` compiles it from source and needs a C++
+toolchain — on Windows that means Visual Studio Build Tools. v12 downloads a ready
+binary for every common platform, so installing needs nothing but Node. If you ever
+bump it to v13 or later, expect `node-gyp` / `MSBuild` errors on machines without a
+compiler.
 
 On Windows PowerShell, `npm` may be blocked by the execution policy
 (`UnauthorizedAccess` / `npm.ps1 cannot be loaded`). Either call `npm.cmd` instead of
